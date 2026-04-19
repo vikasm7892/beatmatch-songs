@@ -51,6 +51,32 @@
     { "id": "hiphop_022", "title": "Type Shit", "artist": "Future, Metro Boomin, Travis Scott & Playboi Carti", "genre": "hiphop" },
     { "id": "hiphop_023", "title": "Superman", "artist": "Eminem", "genre": "hiphop" },
     { "id": "hiphop_024", "title": "Lucid Dreams", "artist": "Juice WRLD", "genre": "hiphop" },
-    { "id": "hiphop_025", "title": "Doja", "artist": "Central Cee", "genre": "hiphop" }
+    { "id": "hiphop_025", "title": "Doja", "artist": "Central Cee", "genre": "hiphop" },
+
+    { "id": "bollywood_001", "title": "Humsafar (Saiyaara Version)", "artist": "Akhil Sachdeva", "genre": "bollywood" },
+{ "id": "bollywood_002", "title": "Param Sundari", "artist": "Shreya Ghoshal", "genre": "bollywood" },
+{ "id": "bollywood_003", "title": "Ae Dil Hai Mushkil", "artist": "Arijit Singh", "genre": "bollywood" },
+{ "id": "bollywood_004", "title": "Kesariya", "artist": "Arijit Singh", "genre": "bollywood" },
+{ "id": "bollywood_005", "title": "Subha Hone Na De", "artist": "Mika Singh & Shefali Alvares", "genre": "bollywood" },
+{ "id": "bollywood_006", "title": "Maan Meri Jaan", "artist": "King", "genre": "bollywood" },
+{ "id": "bollywood_007", "title": "Dhoom Machale", "artist": "Sunidhi Chauhan", "genre": "bollywood" },
+{ "id": "bollywood_008", "title": "Paaro", "artist": "Aditya Rikhari", "genre": "bollywood" },
+{ "id": "bollywood_009", "title": "Tum Se Hi", "artist": "Mohit Chauhan", "genre": "bollywood" },
+{ "id": "bollywood_010", "title": "Dilliwaali Girlfriend", "artist": "Arijit Singh & Sunidhi Chauhan", "genre": "bollywood" },
+{ "id": "bollywood_011", "title": "London Thumakda", "artist": "Labh Janjua, Sonu Kakkar & Neha Kakkar", "genre": "bollywood" },
+{ "id": "bollywood_012", "title": "Chikni Chameli", "artist": "Shreya Ghoshal", "genre": "bollywood" },
+{ "id": "bollywood_013", "title": "Dilbara", "artist": "Abhijeet Sawant & Sowmya Raoh", "genre": "bollywood" },
+{ "id": "bollywood_014", "title": "Ainvayi Ainvayi", "artist": "Salim Merchant & Sunidhi Chauhan", "genre": "bollywood" },
+{ "id": "bollywood_015", "title": "What Jhumka?", "artist": "Arijit Singh & Jonita Gandhi", "genre": "bollywood" },
+{ "id": "bollywood_016", "title": "Sooraj Dooba Hain", "artist": "Arijit Singh & Aditi Singh Sharma", "genre": "bollywood" },
+{ "id": "bollywood_017", "title": "Dheere Dheere Se Meri Zindagi Mein Aana", "artist": "Yo Yo Honey Singh", "genre": "bollywood" },
+{ "id": "bollywood_018", "title": "Kabira (Encore)", "artist": "Arijit Singh & Harshdeep Kaur", "genre": "bollywood" },
+{ "id": "bollywood_019", "title": "Balam Pichkari", "artist": "Vishal Dadlani & Shalmali Kholgade", "genre": "bollywood" },
+{ "id": "bollywood_020", "title": "Sahiba", "artist": "Aditya Rikhari & Ankita Chhetri", "genre": "bollywood" },
+{ "id": "bollywood_021", "title": "Agar Tum Saath Ho", "artist": "Alka Yagnik & Arijit Singh", "genre": "bollywood" },
+{ "id": "bollywood_022", "title": "Gehra Hua", "artist": "Shashwat Sachdev, Arijit Singh & Irshad Kamil", "genre": "bollywood" },
+{ "id": "bollywood_023", "title": "Chaleya", "artist": "Arijit Singh & Shilpa Rao", "genre": "bollywood" },
+{ "id": "bollywood_024", "title": "Shararat", "artist": "Shashwat Sachdev, Jasmine Sandlas & Madhubanti Bagchi", "genre": "bollywood" },
+{ "id": "bollywood_025", "title": "Sheila Ki Jawani", "artist": "Sunidhi Chauhan & Vishal Dadlani", "genre": "bollywood" }
   ]
 }
