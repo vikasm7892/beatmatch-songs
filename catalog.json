@@ -22,13 +22,133 @@
     {
       "id": "pop_004",
       "title": "Belong Together",
-      "artist": " Mark Ambor",
+      "artist": "Mark Ambor",
       "genre": "pop"
     },
     {
       "id": "pop_005",
       "title": "Apple",
-      "artist": "Charli xcx",
+      "artist": "Charli XCX",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_006",
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_007",
+      "title": "Birds of a Feather",
+      "artist": "Billie Eilish",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_008",
+      "title": "Run Away With Me",
+      "artist": "Carly Rae Jepsen",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_009",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_010",
+      "title": "One Dance",
+      "artist": "Drake",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_011",
+      "title": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_012",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_013",
+      "title": "Green Light",
+      "artist": "Lorde",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_014",
+      "title": "drivers license",
+      "artist": "Olivia Rodrigo",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_015",
+      "title": "Closer",
+      "artist": "The Chainsmokers",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_016",
+      "title": "Hotline Bling",
+      "artist": "Drake",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_017",
+      "title": "Delicate",
+      "artist": "Taylor Swift",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_018",
+      "title": "Ocean Eyes",
+      "artist": "Billie Eilish",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_019",
+      "title": "Kill Bill",
+      "artist": "SZA",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_020",
+      "title": "we can't be friends (wait for your love)",
+      "artist": "Ariana Grande",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_021",
+      "title": "New Rules",
+      "artist": "Dua Lipa",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_022",
+      "title": "Flowers",
+      "artist": "Miley Cyrus",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_023",
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_024",
+      "title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_025",
+      "title": "Von Dutch",
+      "artist": "Charli XCX",
       "genre": "pop"
     }
   ]
