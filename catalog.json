@@ -1,155 +1,56 @@
 {
   "baseUrl": "https://raw.githubusercontent.com/vikasm7892/beatmatch-songs/main",
   "songs": [
-    {
-      "id": "pop_001",
-      "title": "Die With a Smile",
-      "artist": "Lady Gaga & Bruno Mars",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_002",
-      "title": "Espresso",
-      "artist": "Sabrina Carpenter",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_003",
-      "title": "Fortnight",
-      "artist": "Taylor Swift",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_004",
-      "title": "Belong Together",
-      "artist": "Mark Ambor",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_005",
-      "title": "Apple",
-      "artist": "Charli XCX",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_006",
-      "title": "Sorry",
-      "artist": "Justin Bieber",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_007",
-      "title": "Birds of a Feather",
-      "artist": "Billie Eilish",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_008",
-      "title": "Run Away With Me",
-      "artist": "Carly Rae Jepsen",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_009",
-      "title": "Don't Start Now",
-      "artist": "Dua Lipa",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_010",
-      "title": "One Dance",
-      "artist": "Drake",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_011",
-      "title": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_012",
-      "title": "Pink Pony Club",
-      "artist": "Chappell Roan",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_013",
-      "title": "Green Light",
-      "artist": "Lorde",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_014",
-      "title": "drivers license",
-      "artist": "Olivia Rodrigo",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_015",
-      "title": "Closer",
-      "artist": "The Chainsmokers",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_016",
-      "title": "Hotline Bling",
-      "artist": "Drake",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_017",
-      "title": "Delicate",
-      "artist": "Taylor Swift",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_018",
-      "title": "Ocean Eyes",
-      "artist": "Billie Eilish",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_019",
-      "title": "Kill Bill",
-      "artist": "SZA",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_020",
-      "title": "we can't be friends (wait for your love)",
-      "artist": "Ariana Grande",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_021",
-      "title": "New Rules",
-      "artist": "Dua Lipa",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_022",
-      "title": "Flowers",
-      "artist": "Miley Cyrus",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_023",
-      "title": "Watermelon Sugar",
-      "artist": "Harry Styles",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_024",
-      "title": "Bad Guy",
-      "artist": "Billie Eilish",
-      "genre": "pop"
-    },
-    {
-      "id": "pop_025",
-      "title": "Von Dutch",
-      "artist": "Charli XCX",
-      "genre": "pop"
-    }
+    { "id": "pop_001", "title": "Die With a Smile", "artist": "Lady Gaga & Bruno Mars", "genre": "pop" },
+    { "id": "pop_002", "title": "Espresso", "artist": "Sabrina Carpenter", "genre": "pop" },
+    { "id": "pop_003", "title": "Fortnight", "artist": "Taylor Swift", "genre": "pop" },
+    { "id": "pop_004", "title": "Belong Together", "artist": "Mark Ambor", "genre": "pop" },
+    { "id": "pop_005", "title": "Apple", "artist": "Charli XCX", "genre": "pop" },
+    { "id": "pop_006", "title": "Sorry", "artist": "Justin Bieber", "genre": "pop" },
+    { "id": "pop_007", "title": "Birds of a Feather", "artist": "Billie Eilish", "genre": "pop" },
+    { "id": "pop_008", "title": "Run Away With Me", "artist": "Carly Rae Jepsen", "genre": "pop" },
+    { "id": "pop_009", "title": "Don't Start Now", "artist": "Dua Lipa", "genre": "pop" },
+    { "id": "pop_010", "title": "One Dance", "artist": "Drake", "genre": "pop" },
+    { "id": "pop_011", "title": "Cruel Summer", "artist": "Taylor Swift", "genre": "pop" },
+    { "id": "pop_012", "title": "Pink Pony Club", "artist": "Chappell Roan", "genre": "pop" },
+    { "id": "pop_013", "title": "Green Light", "artist": "Lorde", "genre": "pop" },
+    { "id": "pop_014", "title": "drivers license", "artist": "Olivia Rodrigo", "genre": "pop" },
+    { "id": "pop_015", "title": "Closer", "artist": "The Chainsmokers", "genre": "pop" },
+    { "id": "pop_016", "title": "Hotline Bling", "artist": "Drake", "genre": "pop" },
+    { "id": "pop_017", "title": "Delicate", "artist": "Taylor Swift", "genre": "pop" },
+    { "id": "pop_018", "title": "Ocean Eyes", "artist": "Billie Eilish", "genre": "pop" },
+    { "id": "pop_019", "title": "Kill Bill", "artist": "SZA", "genre": "pop" },
+    { "id": "pop_020", "title": "we can't be friends (wait for your love)", "artist": "Ariana Grande", "genre": "pop" },
+    { "id": "pop_021", "title": "New Rules", "artist": "Dua Lipa", "genre": "pop" },
+    { "id": "pop_022", "title": "Flowers", "artist": "Miley Cyrus", "genre": "pop" },
+    { "id": "pop_023", "title": "Watermelon Sugar", "artist": "Harry Styles", "genre": "pop" },
+    { "id": "pop_024", "title": "Bad Guy", "artist": "Billie Eilish", "genre": "pop" },
+    { "id": "pop_025", "title": "Von Dutch", "artist": "Charli XCX", "genre": "pop" },
+
+    { "id": "hiphop_001", "title": "Ransom", "artist": "Lil Tecca", "genre": "hiphop" },
+    { "id": "hiphop_002", "title": "Bodak Yellow", "artist": "Cardi B", "genre": "hiphop" },
+    { "id": "hiphop_003", "title": "No Cap", "artist": "KR$NA", "genre": "hiphop" },
+    { "id": "hiphop_004", "title": "Khatta Flow", "artist": "Seedhe Maut & KR$NA", "genre": "hiphop" },
+    { "id": "hiphop_005", "title": "Straight Outta Compton", "artist": "N.W.A.", "genre": "hiphop" },
+    { "id": "hiphop_006", "title": "The Box", "artist": "Roddy Ricch", "genre": "hiphop" },
+    { "id": "hiphop_007", "title": "Lose Yourself", "artist": "Eminem", "genre": "hiphop" },
+    { "id": "hiphop_008", "title": "God's Plan", "artist": "Drake", "genre": "hiphop" },
+    { "id": "hiphop_009", "title": "Without Me", "artist": "Eminem", "genre": "hiphop" },
+    { "id": "hiphop_010", "title": "Alright", "artist": "Kendrick Lamar", "genre": "hiphop" },
+    { "id": "hiphop_011", "title": "Still D.R.E.", "artist": "Dr. Dre", "genre": "hiphop" },
+    { "id": "hiphop_012", "title": "Dior", "artist": "Pop Smoke", "genre": "hiphop" },
+    { "id": "hiphop_013", "title": "DNA.", "artist": "Kendrick Lamar", "genre": "hiphop" },
+    { "id": "hiphop_014", "title": "Nuthin' but a 'G' Thang", "artist": "Dr. Dre & Snoop Dogg", "genre": "hiphop" },
+    { "id": "hiphop_015", "title": "Shotta Flow", "artist": "NLE Choppa", "genre": "hiphop" },
+    { "id": "hiphop_016", "title": "In Da Club", "artist": "50 Cent", "genre": "hiphop" },
+    { "id": "hiphop_017", "title": "SICKO MODE", "artist": "Travis Scott", "genre": "hiphop" },
+    { "id": "hiphop_018", "title": "6 Foot 7 Foot", "artist": "Lil Wayne", "genre": "hiphop" },
+    { "id": "hiphop_019", "title": "Gangsta's Paradise", "artist": "Coolio", "genre": "hiphop" },
+    { "id": "hiphop_020", "title": "The Message", "artist": "Grandmaster Flash & The Furious Five", "genre": "hiphop" },
+    { "id": "hiphop_021", "title": "Not Like Us", "artist": "Kendrick Lamar", "genre": "hiphop" },
+    { "id": "hiphop_022", "title": "Type Shit", "artist": "Future, Metro Boomin, Travis Scott & Playboi Carti", "genre": "hiphop" },
+    { "id": "hiphop_023", "title": "Superman", "artist": "Eminem", "genre": "hiphop" },
+    { "id": "hiphop_024", "title": "Lucid Dreams", "artist": "Juice WRLD", "genre": "hiphop" },
+    { "id": "hiphop_025", "title": "Doja", "artist": "Central Cee", "genre": "hiphop" }
   ]
 }
