@@ -1,0 +1,35 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/vikasm7892/beatmatch-songs/main",
+  "songs": [
+    {
+      "id": "pop_001",
+      "title": "Die With a Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_002",
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_003",
+      "title": "Fortnight",
+      "artist": "Taylor Swift",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_004",
+      "title": "Belong Together",
+      "artist": " Mark Ambor",
+      "genre": "pop"
+    },
+    {
+      "id": "pop_005",
+      "title": "Apple",
+      "artist": "Charli xcx",
+      "genre": "pop"
+    }
+  ]
+}
