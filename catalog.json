@@ -103,6 +103,32 @@
 { "id": "sandalwood_022", "title": "Belageddu", "artist": "Vijay Prakash", "genre": "sandalwood" },
 { "id": "sandalwood_023", "title": "Chandrachooda", "artist": "Siddhartha Belmannu", "genre": "sandalwood" },
 { "id": "sandalwood_024", "title": "Maamu Maamu", "artist": "Vijay Prakash", "genre": "sandalwood" },
-{ "id": "sandalwood_025", "title": "Ugramm Veeram", "artist": "Ravi Basrur", "genre": "sandalwood" }
+{ "id": "sandalwood_025", "title": "Ugramm Veeram", "artist": "Ravi Basrur", "genre": "sandalwood" },
+
+{ "id": "tollywood_001", "title": "Sooreede", "artist": "Harini Ivaturi", "genre": "tollywood" },
+{ "id": "tollywood_002", "title": "Seethakaalam", "artist": "Yazin Nizar", "genre": "tollywood" },
+{ "id": "tollywood_003", "title": "Maate Vinadhuga", "artist": "Sid Sriram", "genre": "tollywood" },
+{ "id": "tollywood_004", "title": "Mirchi", "artist": "Devi Sri Prasad", "genre": "tollywood" },
+{ "id": "tollywood_005", "title": "Samajavaragamana", "artist": "Sid Sriram", "genre": "tollywood" },
+{ "id": "tollywood_006", "title": "My Name Is Billa", "artist": "Ranjith", "genre": "tollywood" },
+{ "id": "tollywood_007", "title": "Uppenantha", "artist": "Devi Sri Prasad", "genre": "tollywood" },
+{ "id": "tollywood_008", "title": "Oo Antava Mawa", "artist": "Indravathi Chauhan", "genre": "tollywood" },
+{ "id": "tollywood_009", "title": "Idedo Bagundi", "artist": "Vijay Prakash", "genre": "tollywood" },
+{ "id": "tollywood_010", "title": "Pushpa Pushpa", "artist": "Devi Sri Prasad", "genre": "tollywood" },
+{ "id": "tollywood_011", "title": "Nuvvostanante", "artist": "K. S. Chithra", "genre": "tollywood" },
+{ "id": "tollywood_012", "title": "Bommali", "artist": "Hemachandra", "genre": "tollywood" },
+{ "id": "tollywood_013", "title": "Ninnu Chudagane", "artist": "Devi Sri Prasad", "genre": "tollywood" },
+{ "id": "tollywood_014", "title": "Aaya Sher", "artist": "Anirudh Ravichander", "genre": "tollywood" },
+{ "id": "tollywood_015", "title": "Pillaa Nuvveleni Jeevitham", "artist": "Devi Sri Prasad", "genre": "tollywood" },
+{ "id": "tollywood_016", "title": "Naatu Naatu", "artist": "Rahul Sipligunj & Kaala Bhairava", "genre": "tollywood" },
+{ "id": "tollywood_017", "title": "Pillaa Raa", "artist": "Anurag Kulkarni", "genre": "tollywood" },
+{ "id": "tollywood_018", "title": "Oh Prema", "artist": "Kapil Kapilan", "genre": "tollywood" },
+{ "id": "tollywood_019", "title": "Super Machi", "artist": "Devi Sri Prasad", "genre": "tollywood" },
+{ "id": "tollywood_020", "title": "Pulsar Bike", "artist": "Bheems Ceciroleo", "genre": "tollywood" },
+{ "id": "tollywood_021", "title": "Fear", "artist": "Anirudh Ravichander", "genre": "tollywood" },
+{ "id": "tollywood_022", "title": "Nuvvostanante Nenoddantana", "artist": "S. P. Balasubrahmanyam", "genre": "tollywood" },
+{ "id": "tollywood_023", "title": "My Love Is Gone", "artist": "Devi Sri Prasad", "genre": "tollywood" },
+{ "id": "tollywood_024", "title": "Vachinde", "artist": "Madhu Priya & Ramky", "genre": "tollywood" },
+{ "id": "tollywood_025", "title": "Manohari", "artist": "Mohana Bhogaraju", "genre": "tollywood" }
   ]
 }
