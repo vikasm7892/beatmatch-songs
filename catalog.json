@@ -77,6 +77,32 @@
 { "id": "bollywood_022", "title": "Gehra Hua", "artist": "Shashwat Sachdev, Arijit Singh & Irshad Kamil", "genre": "bollywood" },
 { "id": "bollywood_023", "title": "Chaleya", "artist": "Arijit Singh & Shilpa Rao", "genre": "bollywood" },
 { "id": "bollywood_024", "title": "Shararat", "artist": "Shashwat Sachdev, Jasmine Sandlas & Madhubanti Bagchi", "genre": "bollywood" },
-{ "id": "bollywood_025", "title": "Sheila Ki Jawani", "artist": "Sunidhi Chauhan & Vishal Dadlani", "genre": "bollywood" }
+{ "id": "bollywood_025", "title": "Sheila Ki Jawani", "artist": "Sunidhi Chauhan & Vishal Dadlani", "genre": "bollywood" },
+
+{ "id": "sandalwood_001", "title": "Gatiya Ilidu", "artist": "Vijay Prakash", "genre": "sandalwood" },
+{ "id": "sandalwood_002", "title": "Bisilu Kudureyondu", "artist": "Rajesh Krishnan", "genre": "sandalwood" },
+{ "id": "sandalwood_003", "title": "Ninthali Nillalaare", "artist": "S. S. Thaman", "genre": "sandalwood" },
+{ "id": "sandalwood_004", "title": "Yeno Yeno Aagide", "artist": "Haricharan", "genre": "sandalwood" },
+{ "id": "sandalwood_005", "title": "Googly Gandasare", "artist": "Pawan Wadeyar", "genre": "sandalwood" },
+{ "id": "sandalwood_006", "title": "Salaam Rocky Bhai", "artist": "Ravi Basrur", "genre": "sandalwood" },
+{ "id": "sandalwood_007", "title": "Sakathagavle", "artist": "V. Harikrishna", "genre": "sandalwood" },
+{ "id": "sandalwood_008", "title": "Mussanje Veleli", "artist": "Vani Harikrishna", "genre": "sandalwood" },
+{ "id": "sandalwood_009", "title": "Mehabooba", "artist": "Ananya Bhat", "genre": "sandalwood" },
+{ "id": "sandalwood_010", "title": "Ondu Malebillu", "artist": "Arjun Janya", "genre": "sandalwood" },
+{ "id": "sandalwood_011", "title": "Chakravarthy", "artist": "Vyasraj", "genre": "sandalwood" },
+{ "id": "sandalwood_012", "title": "Koodi Itta", "artist": "Sonu Nigam", "genre": "sandalwood" },
+{ "id": "sandalwood_013", "title": "Annabond", "artist": "Ranjith", "genre": "sandalwood" },
+{ "id": "sandalwood_014", "title": "Don't Worry Baby", "artist": "Gaana Muthu", "genre": "sandalwood" },
+{ "id": "sandalwood_015", "title": "Bagheera", "artist": "B. Ajaneesh Loknath", "genre": "sandalwood" },
+{ "id": "sandalwood_016", "title": "Jackie Jackie", "artist": "Yogaraj Bhat", "genre": "sandalwood" },
+{ "id": "sandalwood_017", "title": "Ra Ra Rakkamma", "artist": "Sunidhi Chauhan", "genre": "sandalwood" },
+{ "id": "sandalwood_018", "title": "Hudugi Kannu", "artist": "Srii Murali", "genre": "sandalwood" },
+{ "id": "sandalwood_019", "title": "Bangle Bangari", "artist": "Charan Raj", "genre": "sandalwood" },
+{ "id": "sandalwood_020", "title": "Sapta Sagaradaache Ello", "artist": "Charan Raj", "genre": "sandalwood" },
+{ "id": "sandalwood_021", "title": "Yavanig Gotthu", "artist": "Tippu", "genre": "sandalwood" },
+{ "id": "sandalwood_022", "title": "Belageddu", "artist": "Vijay Prakash", "genre": "sandalwood" },
+{ "id": "sandalwood_023", "title": "Chandrachooda", "artist": "Siddhartha Belmannu", "genre": "sandalwood" },
+{ "id": "sandalwood_024", "title": "Maamu Maamu", "artist": "Vijay Prakash", "genre": "sandalwood" },
+{ "id": "sandalwood_025", "title": "Ugramm Veeram", "artist": "Ravi Basrur", "genre": "sandalwood" }
   ]
 }
